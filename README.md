@@ -1,16 +1,21 @@
-## Hi there 👋
+### ☁️ hey, Laurie here.
 
-<!--
-**eepylaurie/eepylaurie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently moving through the *Core Curriculum* at *42Heilbronn*, spending most of my time strengthening my skills through hands-on work.  
+Outside of that, I pursue small personal ideas that let me play with visuals and creative direction.
 
-Here are some ideas to get you started:
+#### 🍵 These days I'm focused on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working on *42 Projects* primarily in `Python` and `C`  
+- Learning how to build cute web applications
+- Exploring UI aesthetics and visual layout design
+
+#### 🍡 When I'm not Coding
+
+- Playing cozy games
+- Drawing
+- Collecting Pokémon
+- Sleeping whenever possible
+
+*still learning, still experimenting, still figuring things out...*
+
+(⸝⸝╸-╺⸝⸝)ᶻ𝗓𐰁
